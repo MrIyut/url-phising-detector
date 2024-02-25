@@ -1,0 +1,12 @@
+v=ver
+#form
+/exe/
+/raw/
+args=
+server/
+=download
+host
+module=
+?environment
+&environment
+.ru.com
